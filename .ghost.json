@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://blog.amanadesign.space",
-    "contentApiKey": "0d693ec3a816a47d782b71e1a7"
+    "apiUrl": "https://art.teesunda.id",
+    "contentApiKey": "3910b81d7115b351a43c6fc156"
   },
   "production": {
-    "apiUrl": "http://blog.amanadesign.space",
-    "contentApiKey": "0d693ec3a816a47d782b71e1a7"
+    "apiUrl": "https://art.teesunda.id",
+    "contentApiKey": "3910b81d7115b351a43c6fc156"
   }
 }
